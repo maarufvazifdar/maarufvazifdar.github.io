@@ -1,11 +1,12 @@
-title: Minimalist theme
+title: Mohammed Maaruf Vazifdar
 logo: /assets/img/maaruf.jpeg
-email: bogus at gmail dot com
-description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
+email: maarufvazifdar@gmail.com
+email: maaruf98@umd.edu
+description: Masters student in Robotics at University of Maryland, College Park
 show_downloads: false
-google_analytics: UA-108144808-1
+google_analytics:
 theme: jekyll-theme-minimalist
-color-scheme: auto
+color-scheme: dark
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
