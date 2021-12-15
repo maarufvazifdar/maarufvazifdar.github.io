@@ -4,7 +4,7 @@ layout: default
 
 # Mohammed Maaruf Vazifdar
 
-<!-- [Link to another page](./another-page.html). -->
+## [Resume](./files/maaruf resume umd.pdf)
 
 There should be whitespace between paragraphs.
 
