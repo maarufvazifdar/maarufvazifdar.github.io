@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Mohammed Maaruf Vazifdar
+# **Mohammed Maaruf Vazifdar**
 
 ## [Resume](./files/maaruf resume umd.pdf)
 
