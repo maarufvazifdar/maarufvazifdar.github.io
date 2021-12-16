@@ -27,6 +27,7 @@ Projects
 - Features included bi-directional video conferencing, interactive user-interface, and remote control over internet.
 - *My contribution*: Worked deployment, tuning the ROS navigation stack, configuring Intel RealSense with navigation package, Imu data acquisition.
 • Wrote python scripts for providing nav_goals via a GUI, robot CAD design, prototyping and fabrication, creating URDF and world for simulations, adding plugins for various sensors, navigation package, localization using Aruco markers.
+- Gazebo simulation of the robot [Faby](https://github.com/maarufvazifdar/faby_sim).
 
 ### Header 3
 
