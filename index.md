@@ -43,6 +43,7 @@ Projects
 <img src="files/food_robot.png" width="600">
 </p>
 - Simulation of a robot waiter in cafe environment. [Github Repo](https://github.com/maarufvazifdar/food_serving_robot)
+
 ### **Shamazon_Warehouse_Robot**
 - The project demonstrates a delivery robot with autonomous capabilities, static, and dynamic obstacle avoidance. The robot will navigate to a conveyor belt to receive a package and will navigate through a map to deliver it between departments inside a warehouse with multiple levels, the robot can use elevator gazebo plugin to communicate, know the state and location of the elevator, and upon reaching the desired level/ floor, update the map. Finally, on reaching the goal the package will be delivered by the robot’s conveyor belt. [Github Repo](https://github.com/maarufvazifdar/shamazon_robot)
 
