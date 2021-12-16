@@ -18,13 +18,14 @@ I completed my undergraduate in BTech in Mechatronics Engineering in 2020, which
 - Solidworks
 - Robot Modelling and prototyping
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Projects
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### [Faby - The Telepresence Robot](https://github.com/maarufvazifdar/faby_sim)
+![](/files/faby.png)
+- Developed a telepresence robot that could autonomously navigate through an indoor environment with dynamic obstacle avoidance.
+- Features included bi-directional video conferencing, interactive user-interface, and remote control over internet.
+- My contribution: Worked deployment, tuning the ROS navigation stack, configuring Intel RealSense with navigation package, Imu data acquisition.
+• Wrote python scripts for providing nav_goals via a GUI, robot CAD design, prototyping and fabrication, creating URDF and world for simulations, adding plugins for various sensors, navigation package, localization using Aruco markers.
 
 ### Header 3
 
