@@ -7,9 +7,9 @@ layout: default
 Hi, I am a Graduate Studnet at the University of Maryland, currently pursuing Masters in Engineering - Robotics.
 I completed my undergraduate in BTech in Mechatronics Engineering in 2020, which sparked my interest in robotics.
 
-### [My Academic Resume](/files/maaruf_resume_umd.pdf)
+### [Academic Resume](/files/maaruf_resume_umd.pdf)
 
-## Skills 
+## Technical Skills 
 - Python
 - C++
 - ROS
