@@ -29,13 +29,23 @@ Projects
 • Wrote python scripts for providing nav_goals via a GUI, robot CAD design, prototyping and fabrication, creating URDF and world for simulations, adding plugins for various sensors, navigation package, localization using Aruco markers.
 - Gazebo simulation of the robot [Faby](https://github.com/maarufvazifdar/faby_sim).
 
-Internships
+Technical Experience
 ===========
 **Drishti Works, Mumbai - *Robotics Software Engineer- Intern***
   - Create realistic and robust robot simulations and environments using ROS and Gazebo to ensure the
   optimal performance of robots on deployment.
   - Cloud based deployment, monitoring and management of robot applications using the AWS
   RoboMaker services.
+
+**SRM ASV - *Mechanical Lead* (During undergrad)**
+![](/files/srm_asv.png)
+- SRM ASV is a student research team which focuses on developing Autonomous Surface Vehicles.
+- Was responsible for Team management, Mechanical design, CFD Analysis, Fabrication and Prototyping of the boat hull and mechanisms.
+- [ASV designs and images](https://drive.google.com/drive/u/2/folders/1HhZRPbZommBlfuW9XI7QwKbouBcnGt4x)
+
+**Reliance Industries Limited, Silvassa Manufacturing Division - *Intern***
+
+**Oil and Natural Gas Limited, Hazira - *Intern***
 
 
 #### Header 4
