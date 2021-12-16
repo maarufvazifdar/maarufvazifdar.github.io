@@ -18,13 +18,14 @@ I completed my undergraduate in BTech in Mechatronics Engineering in 2020, which
 - Solidworks
 - Robot Modelling and prototyping
 
-## Projects
+Projects
+========
 
 ### [Faby - The Telepresence Robot](https://github.com/maarufvazifdar/faby_sim)
 ![](/files/faby.png)
 - Developed a telepresence robot that could autonomously navigate through an indoor environment with dynamic obstacle avoidance.
 - Features included bi-directional video conferencing, interactive user-interface, and remote control over internet.
-- My contribution: Worked deployment, tuning the ROS navigation stack, configuring Intel RealSense with navigation package, Imu data acquisition.
+- *My contribution*: Worked deployment, tuning the ROS navigation stack, configuring Intel RealSense with navigation package, Imu data acquisition.
 • Wrote python scripts for providing nav_goals via a GUI, robot CAD design, prototyping and fabrication, creating URDF and world for simulations, adding plugins for various sensors, navigation package, localization using Aruco markers.
 
 ### Header 3
