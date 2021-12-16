@@ -5,7 +5,7 @@ description: Master of Engineering - Robotics at University of Maryland, College
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimalist
-color-scheme: auto
+color-scheme: dark
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
