@@ -17,6 +17,8 @@ During my undergrad, working on projects I discovered my interest towards Roboti
 - ROS
 - Gazebo
 - AWS RoboMaker
+- Git
+- Linux
 - Solidworks
 - Robot Modelling and prototyping
 
