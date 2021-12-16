@@ -21,13 +21,21 @@ I completed my undergraduate in BTech in Mechatronics Engineering in 2020, which
 Projects
 ========
 
-### [Faby - The Telepresence Robot](https://github.com/maarufvazifdar/faby_sim)
-![](/files/faby.png)
+### [**Faby - The Telepresence Robot**](https://github.com/maarufvazifdar/faby_sim)
+<!-- ![](./files/faby.png) -->
+<img src="files/faby.png" width="600">
+
+<img src="files/faby2.png" width="300"> <img src="files/faby3.jpg" width="300">
 - Developed a telepresence robot that could autonomously navigate through an indoor environment with dynamic obstacle avoidance.
 - Features included bi-directional video conferencing, interactive user-interface, and remote control over internet.
 - *My contribution*: Worked deployment, tuning the ROS navigation stack, configuring Intel RealSense with navigation package, Imu data acquisition.
 • Wrote python scripts for providing nav_goals via a GUI, robot CAD design, prototyping and fabrication, creating URDF and world for simulations, adding plugins for various sensors, navigation package, localization using Aruco markers.
 - Gazebo simulation of the robot [Faby](https://github.com/maarufvazifdar/faby_sim).
+
+### **Telepresence Robot for Medical Assistance**
+
+- Develop a robot to assist healthcare professionals in hospitals during the Covid-19 pandemic.
+
 
 Technical Experience
 ===========
@@ -47,7 +55,7 @@ Technical Experience
 
 **Oil and Natural Gas Limited, Hazira - *Intern***
 
-
+<!-- 
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -131,4 +139,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
