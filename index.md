@@ -21,11 +21,12 @@ I completed my undergraduate in BTech in Mechatronics Engineering in 2020, which
 Projects
 ========
 
-### [**Faby - The Telepresence Robot**](https://github.com/maarufvazifdar/faby_sim)
+### **Faby - The Telepresence Robot**
 <!-- ![](./files/faby.png) -->
+<p align="center">
 <img src="files/faby.png" width="600">
-
 <img src="files/faby2.png" width="300"> <img src="files/faby3.jpg" width="300">
+</p>
 - Developed a telepresence robot that could autonomously navigate through an indoor environment with dynamic obstacle avoidance.
 - Features included bi-directional video conferencing, interactive user-interface, and remote control over internet.
 - *My contribution*: Worked deployment, tuning the ROS navigation stack, configuring Intel RealSense with navigation package, Imu data acquisition.
@@ -46,7 +47,9 @@ Technical Experience
   RoboMaker services.
 
 **SRM ASV - *Mechanical Lead* (During undergrad)**
-![](/files/srm_asv.png)
+<p align="center">
+<img src="files/srm_asv.png" width="600">
+</p>
 - SRM ASV is a student research team which focuses on developing Autonomous Surface Vehicles.
 - Was responsible for Team management, Mechanical design, CFD Analysis, Fabrication and Prototyping of the boat hull and mechanisms.
 - [ASV designs and images](https://drive.google.com/drive/u/2/folders/1HhZRPbZommBlfuW9XI7QwKbouBcnGt4x)
