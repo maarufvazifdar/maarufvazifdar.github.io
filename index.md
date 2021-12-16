@@ -4,7 +4,7 @@ layout: default
 
 # **Mohammed Maaruf Vazifdar**
 
-## [Resume](./files/maaruf resume umd.pdf)
+## [My Academic Resume](./files/maaruf resume umd.pdf)
 
 Hi I am a Graduate Studnet at the University of Maryland, currently pursuing Masters in Engineering Robotics.
 I completed my undergraduate in BTech in Mechatronics Engineering in 2020, which sparked my interest in robotics.
