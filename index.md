@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<p align="center">
-# **Mohammed Maaruf Vazifdar**
-</p>
+<h1 align="center">
+Mohammed Maaruf Vazifdar
+</h1>
 Hi, I am a Graduate Studnet at the University of Maryland, currently pursuing Masters in Engineering - Robotics.
 I completed my undergraduate in BTech in Mechatronics Engineering in 2020, which sparked my interest in robotics.
 
@@ -42,6 +42,7 @@ Projects
 <p align="center">
 <img src="files/food_robot.png" width="600">
 </p>
+
 - Simulation of a robot waiter in cafe environment. [Github Repo](https://github.com/maarufvazifdar/food_serving_robot)
 
 ### **Shamazon_Warehouse_Robot**
