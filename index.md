@@ -6,11 +6,17 @@ layout: default
 
 ## [Resume](./files/maaruf resume umd.pdf)
 
-There should be whitespace between paragraphs.
+Hi I am a Graduate Studnet at the University of Maryland, currently pursuing Masters in Engineering Robotics.
+I completed my undergraduate in BTech in Mechatronics Engineering in 2020, which sparked my interest in robotics.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+## Skills 
+- Python
+- C++
+- ROS
+- Gazebo
+- AWS RoboMaker
+- Solidworks
+- Robot Modelling and prototyping
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
