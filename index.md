@@ -29,22 +29,14 @@ Projects
 • Wrote python scripts for providing nav_goals via a GUI, robot CAD design, prototyping and fabrication, creating URDF and world for simulations, adding plugins for various sensors, navigation package, localization using Aruco markers.
 - Gazebo simulation of the robot [Faby](https://github.com/maarufvazifdar/faby_sim).
 
-### Header 3
+Internships
+===========
+**Drishti Works, Mumbai - *Robotics Software Engineer- Intern***
+  - Create realistic and robust robot simulations and environments using ROS and Gazebo to ensure the
+  optimal performance of robots on deployment.
+  - Cloud based deployment, monitoring and management of robot applications using the AWS
+  RoboMaker services.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
